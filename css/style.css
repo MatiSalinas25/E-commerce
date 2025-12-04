@@ -139,6 +139,39 @@ ul {
     color: var(--color-acento-neon);
 }
 
+.login {
+    display: flex;
+    gap: 20px;
+}
+
+.modal-content.modal-login-custom {
+    z-index: 9999;
+}
+
+.modal-content.modal-login-custom .modal-header {
+    background-color: #333;
+}
+
+.modal-content.modal-login-custom .modal-body {
+    background-color: #333;
+}
+
+.form-labl {
+    color: #888;
+}
+
+.form-label {
+    color: #888;
+}
+
+.modal-content.modal-login-custom .modal-dialog {
+    background-color: #333;
+}
+
+.modal-content.modal-login-custom .modal-footer {
+    background-color: #333;
+}
+
 .icono-carrito-gamer {
     position: relative;
 }
