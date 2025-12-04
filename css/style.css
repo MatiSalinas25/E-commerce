@@ -304,8 +304,21 @@ ul {
     background-color: var(--color-acento-neon);
     color: #1a1a1a;
 }
-
-
+.productos-centrados{
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-img-top{
+  max-height: 350px;
+  object-fit: cover;
+}
+.card-title{
+  color: rgb(161, 123, 184);
+}
+.textoCard{
+  color: white;
+}
 .pie-principal-gamer {
     background-color: #111;
     color: #bbb;
