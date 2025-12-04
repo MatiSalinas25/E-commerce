@@ -1,5 +1,4 @@
 * {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,7 +22,6 @@
 
 .textenbacezado {
     text-align: center;
-=======
   background-color: black;
 }
 
@@ -143,5 +141,4 @@
   .HrMid {
     display: none;
   }
->>>>>>> origin/feature/nosotros
 }
