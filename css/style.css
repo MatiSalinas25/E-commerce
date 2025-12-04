@@ -1,5 +1,4 @@
 * {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -318,7 +317,6 @@ ul {
 
 .textenbacezado {
     text-align: center;
-=======
   background-color: black;
 }
 
@@ -438,7 +436,6 @@ ul {
   .HrMid {
     display: none;
   }
->>>>>>> origin/feature/nosotros
 }
 @media (max-width: 900px) {
 
